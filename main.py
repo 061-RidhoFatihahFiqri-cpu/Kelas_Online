@@ -1,0 +1,1 @@
+print("Hari ini akan belajar git dan github m")
